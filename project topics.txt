@@ -3,7 +3,6 @@ Decentralized Crowdfunding DApp on Hedera Testnet
 The Crowdfunding DApp is a decentralized platform built on the Hedera Testnet, enabling users to create, contribute to, and manage crowdfunding campaigns securely using blockchain technology. By leveraging smart contracts and decentralized ledger technology (DLT), this platform ensures transparency, immutability, and security for all transactions.
 
 
-
 Technologies Used
 	¥	React: Frontend framework for a dynamic and responsive user interface.
 	¥	Solidity: Smart contract language for defining the crowdfunding logic.
