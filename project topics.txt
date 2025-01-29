@@ -1,3 +1,61 @@
-Decentralized Crowdfunding DApp on Hedera TestnetThe Crowdfunding DApp is a decentralized platform built on the Hedera Testnet, enabling users to create, contribute to, and manage crowdfunding campaigns securely using blockchain technology. By leveraging smart contracts and decentralized ledger technology (DLT), this platform ensures transparency, immutability, and security for all transactions.Technologies Used	¥	React: Frontend framework for a dynamic and responsive user interface.	¥	Solidity: Smart contract language for defining the crowdfunding logic.	¥	Thirdweb: Simplifies interactions with the Hedera Testnet and streamlines contract deployment.Key Features	¥	Campaign Creation: Users can launch crowdfunding campaigns with a title, description, funding goal, and duration.	¥	Campaign Contribution: Supporters can browse campaigns and contribute funds seamlessly.	¥	Blockchain Transparency: All contributions and campaign details are stored immutably on the Hedera Testnet, ensuring trust and security.
-Decentralized Voting DAppThe Decentralized Voting DApp is a secure, transparent, and tamper-proof voting system built on blockchain technology. Utilizing Next.js, Solidity, Hardhat, and IPFS, this application ensures a trustless and immutable voting process, eliminating risks of fraud, manipulation, or central authority control.Key Features	¥	Secure Voting: Smart contracts handle the entire voting process, ensuring integrity and fairness.	¥	Transparency & Immutability: Votes are stored on the blockchain, making them publicly verifiable and resistant to alteration.	¥	Decentralized Storage: IPFS (InterPlanetary File System) is used for storing election-related data, reducing reliance on centralized servers.	¥	User-Friendly Interface: Built with Next.js for a seamless and responsive voting experience.	¥	Smart Contract Execution: Hardhat simplifies contract deployment and testing, ensuring robust and efficient functionality.Technologies Used	¥	Next.js: Frontend framework for building an optimized and interactive voting platform.	¥	Solidity: Smart contract language for defining election rules and secure vote casting.	¥	Hardhat: Development and testing framework for Ethereum-based smart contracts.	¥	IPFS: Decentralized file storage system for storing election metadata and related files.
-Abstract: Video Upload and Car Tint Detection APIThe Video Upload and Car Tint Detection API is a FastAPI-based system designed to process uploaded videos, detect car windows, determine tint levels, and store extracted car images along with metadata in MongoDB. Using computer vision and machine learning, the system enables automated car tint detection by analyzing car windows in video frames.Key Features	¥	Video Upload & Processing: Users can upload videos for analysis.	¥	Car Detection & Image Extraction: Detects cars in the uploaded video and extracts images.	¥	Window Tint Analysis: Uses image processing and ML models to classify tint levels as Low, Medium, or High.	¥	Metadata Storage: Saves video thumbnails, detected images, and metadata (including image URLs) in MongoDB.	¥	FastAPI-Powered API: Provides RESTful endpoints for easy integration.Technologies Used	¥	FastAPI: Backend framework for building high-performance APIs.	¥	MongoDB: Database for storing video metadata and extracted images.	¥	OpenCV: Image processing for car detection and window segmentation.	¥	Torch & torchvision: Machine learning models for tint level classification.	¥	Pydantic: Data validation and serialization.	¥	IPFS (optional): Decentralized file storage for images.
+Decentralized Crowdfunding DApp on Hedera Testnet
+
+The Crowdfunding DApp is a decentralized platform built on the Hedera Testnet, enabling users to create, contribute to, and manage crowdfunding campaigns securely using blockchain technology. By leveraging smart contracts and decentralized ledger technology (DLT), this platform ensures transparency, immutability, and security for all transactions.
+
+
+
+Technologies Used
+	Â¥	React: Frontend framework for a dynamic and responsive user interface.
+	Â¥	Solidity: Smart contract language for defining the crowdfunding logic.
+	Â¥	Thirdweb: Simplifies interactions with the Hedera Testnet and streamlines contract deployment.
+
+
+Key Features
+	Â¥	Campaign Creation: Users can launch crowdfunding campaigns with a title, description, funding goal, and duration.
+	Â¥	Campaign Contribution: Supporters can browse campaigns and contribute funds seamlessly.
+	Â¥	Blockchain Transparency: All contributions and campaign details are stored immutably on the Hedera Testnet, ensuring trust and security.
+
+
+
+Decentralized Voting DApp
+
+The Decentralized Voting DApp is a secure, transparent, and tamper-proof voting system built on blockchain technology. Utilizing Next.js, Solidity, Hardhat, and IPFS, this application ensures a trustless and immutable voting process, eliminating risks of fraud, manipulation, or central authority control.
+
+
+Key Features
+	Â¥	Secure Voting: Smart contracts handle the entire voting process, ensuring integrity and fairness.
+	Â¥	Transparency & Immutability: Votes are stored on the blockchain, making them publicly verifiable and resistant to alteration.
+	Â¥	Decentralized Storage: IPFS (InterPlanetary File System) is used for storing election-related data, reducing reliance on centralized servers.
+	Â¥	User-Friendly Interface: Built with Next.js for a seamless and responsive voting experience.
+	Â¥	Smart Contract Execution: Hardhat simplifies contract deployment and testing, ensuring robust and efficient functionality.
+
+
+Technologies Used
+	Â¥	Next.js: Frontend framework for building an optimized and interactive voting platform.
+	Â¥	Solidity: Smart contract language for defining election rules and secure vote casting.
+	Â¥	Hardhat: Development and testing framework for Ethereum-based smart contracts.
+	Â¥	IPFS: Decentralized file storage system for storing election metadata and related files.
+
+
+Abstract: Video Upload and Car Tint Detection API
+
+The Video Upload and Car Tint Detection API is a FastAPI-based system designed to process uploaded videos, detect car windows, determine tint levels, and store extracted car images along with metadata in MongoDB. Using computer vision and machine learning, the system enables automated car tint detection by analyzing car windows in video frames.
+
+
+Key Features
+	Â¥	Video Upload & Processing: Users can upload videos for analysis.
+	Â¥	Car Detection & Image Extraction: Detects cars in the uploaded video and extracts images.
+	Â¥	Window Tint Analysis: Uses image processing and ML models to classify tint levels as Low, Medium, or High.
+	Â¥	Metadata Storage: Saves video thumbnails, detected images, and metadata (including image URLs) in MongoDB.
+	Â¥	FastAPI-Powered API: Provides RESTful endpoints for easy integration.
+
+
+Technologies Used
+	Â¥	FastAPI: Backend framework for building high-performance APIs.
+	Â¥	MongoDB: Database for storing video metadata and extracted images.
+	Â¥	OpenCV: Image processing for car detection and window segmentation.
+	Â¥	Torch & torchvision: Machine learning models for tint level classification.
+	Â¥	Pydantic: Data validation and serialization.
+	Â¥	IPFS (optional): Decentralized file storage for images.
+
+
